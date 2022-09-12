@@ -1,5 +1,7 @@
 # Logs
 
+SKIP_PREFLIGHT_CHECK=true
+
 logs
 _.log
 npm-debug.log_
@@ -140,3 +142,4 @@ dist
 # OSX
 
 .DS_Store
+
